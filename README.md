@@ -8,7 +8,6 @@ Using Anchor, we'd like you to build a basic xToken staking program. A user shou
   1.22.17
 
 ## Run
-  ```
 
 - install packages
   ```
