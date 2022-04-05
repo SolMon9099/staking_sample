@@ -8,21 +8,11 @@ Using Anchor, we'd like you to build a basic xToken staking program. A user shou
   1.22.17
 
 ## Run
-- clone repository
-  ```
-  git clone https://github.com/MigelTom/Basic_xToken_staking_program.git
-  ```
-
-- set provider wallet (Anchor.toml)
-  ```
-  [provider]
-  cluster = "localnet"
-  wallet = "/home/migeltom/.config/solana/id.json"         //<= change this line
   ```
 
 - install packages
   ```
-  yarn install
+  npm install
   ```
 
 - set to localhost (local network)
